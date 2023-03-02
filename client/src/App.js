@@ -1,6 +1,5 @@
 import PostCreate from './PostCreate';
 import PostList from './PostList';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
